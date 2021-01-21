@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>restart on controller</name>
+    <directory>restart on controller</directory>
+    <id>1103123551</id>
+    <description>Did you ever wish you could restart / quick reset from your controller / gamepad?
+Worry not, just pull both triggers on your xbox controller and be happy!
+
+To be precise, this mod restarts / quick resets the game when you hold down the key to use items and the key to drop your stuff for about the same time you would need to press &quot;r&quot; on the keyboard.
+Limited to controllers and limited to the controller that player 1 uses.
+
+If you want to change the buttons, find the main.lua of this mod and change the variables button1 and button2, the list of possible values is in the file.
+
+Have fun rerolling!</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
